@@ -1,0 +1,17 @@
+Paso 1
+Lo que tienes que hacer es sencillo. Ve a GitHub y luego a Setting una vez en allí baja hasta la opción Developer Setting y luego Personal 
+access tokens si quieres aquí te dejo un link directo
+
+Paso 2
+Una vez allí solo tienes que oprimir el botón de Generar new token y completar el formulario. NOTA: te recomiendo habilitar todas las opciones 
+del formulario oprimiendo los checkbox para así tener todos los privilegios .
+
+Paso 3
+Ahora solo tienes escribir la siguiente palabra en tu buscador de Windows > Administrador de credenciales
+
+Administrador de credenciales
+
+Luego tienes que seleccionar la opción Credenciales de Windows: Y cliquear donde dice atom-github/https//api.github.com allí te saldrá un campo 
+donde colocar el tokens que te genero automáticamente en GitHub y darle a guardar.
+
+
